@@ -4,6 +4,8 @@ public class MyClass {
 		System.out.println("Hello World");
 		
 		System.out.println("foobar");
+		
+		System.out.println("blabla");
 	}
   
 }
