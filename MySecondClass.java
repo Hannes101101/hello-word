@@ -4,4 +4,6 @@ public class MySecondClass {
   private int bar;
   
   private String test;
+  
+  public static final string CONSTANT;
 }
