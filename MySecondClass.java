@@ -5,5 +5,5 @@ public class MySecondClass {
   
   private String test;
   
-  public static final string CONSTANT;
+  public static final String CONSTANT;
 }
