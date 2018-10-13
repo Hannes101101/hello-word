@@ -5,5 +5,4 @@ public class MySecondClass {
   
   private String test;
   
-  public static final String CONSTANT = "BLA";
 }
